@@ -18,7 +18,7 @@
 
 ![постман](https://github.com/GorgeousTV/Yandex-Prilavok/assets/144271169/e0241911-a0d2-4c3b-9220-4b927b7535bb)
 
-### В ходе тестирования некоторой функциональности API мною было найдено 38 багов: [ссылка на проект в YouTrack](https://gorgeous.youtrack.cloud/issues?q=проект:%20%7BYandex%20Prilavka%7D)
+### В ходе тестирования API мною было найдено 38 багов: [ссылка на проект в YouTrack](https://gorgeous.youtrack.cloud/issues?q=проект:%20%7BYandex%20Prilavka%7D)
 
 ![бубликапи](https://github.com/GorgeousTV/Yandex-Prilavok/assets/144271169/a838953c-0439-4664-885b-56ddcd4a4756)
 
