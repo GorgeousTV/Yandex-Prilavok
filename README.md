@@ -22,5 +22,6 @@
 
 ![бубликапи](https://github.com/GorgeousTV/Yandex-Prilavok/assets/144271169/a838953c-0439-4664-885b-56ddcd4a4756)
 
+![багапи](https://github.com/GorgeousTV/Yandex-Prilavok/assets/144271169/cbd17d1a-1705-41de-a87d-ecdd0de133c0)
 
 
